@@ -1,0 +1,15 @@
+Very Easy: Create one 8x8 checkerboard similar to the picture attached using a table. Bonus: use only divs to create the board.
+
+Easy: Utilizing a table with different styles, create an image of the American flag. Use the image provided for the stars.
+
+Medium: Create a product grid of 2 rows, totaling to a required 8 products. Each product must include a title, price, image and a short description. Have each product link back to its own page on Amazon / Walmart / Target.
+
+Hard: Using the given HTML structure and Sass $colors variable, create a Sass @each loop to change the colors of the boxes into the colors of the rainbow.
+
+Very Hard: Create a newspaper component using HTML and Sass while following BEM guidelines. The newspaper should contain at least:
+-Bold headline at the top
+-3 Columns
+-2 Images
+-2 Modifier Classes
+-1 Use of psuedo-elements (:before/:after)
+The contents of the newspaper are up to you, lorem ipsum text is acceptable.
