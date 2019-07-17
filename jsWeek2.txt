@@ -1,0 +1,10 @@
+Attached are the links to the CodePen that contain the problems for this week. Copy and paste the questions in your own code pen and work there.*
+
+In submitting the assignment, simply paste the links to your solutions in a text file and push that up to GitHub. This will make it easier to only work with JS without having to worry about any HTML or CSS.
+
+https://codepen.io/road2hire/pen/bd7cc288ca8716cc6fd8df22a10e3b53?editors=1010
+
+https://codepen.io/road2hire/pen/780cc7f9280c5b62a25a16b076705523
+
+Note the last challenge below builds off of the section 6 video on the budget app. This section is optional, and so is the challenge. However, if you are able to work through the app and this challenge, please do! It is challenging - but a real opportunity to advance your programming skills.
+https://codepen.io/road2hire/pen/caa62a1909cd223774cd6b7b54094fbc
