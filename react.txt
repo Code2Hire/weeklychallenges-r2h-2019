@@ -1,0 +1,11 @@
+In a Codepen Collection
+VERY EASY: Create a React class component that renders "hello world" in an h1 tag. You don't need props for this one.
+EASY:  Pass a prop for "name" into the component you just created so the h1 tag reads, "Hello world, {name}"
+MEDIUM: Create a child Contact component inside the original component you created that you pass in a firstName, lastName, and phoneNumber and print out "You need to contact {firstName} {lastName} at {phoneNumber}
+HARD: Using an array of contacts, loop through each one and create a new Contact component for each
+VERY HARD: In your list of Contacts, have a status icon by each one that starts as orange "Pending" status. Then have a call button that when clicked, changes the state to a green "Done" status.
+
+
+In Create React App
+Move static HTML Products page into a Create React App. Using your products page, create a JSON file that includes all of your products.
+
