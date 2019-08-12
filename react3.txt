@@ -1,0 +1,13 @@
+No video instruction - Tutorial submitted to weekly challenges instead
+https://reactjs.org/tutorial/tutorial.html
+
+
+Weekly Challenge in React
+Create a way to collect user comments and then delete them
+Create a thumbs up / thumbs down counter for these comments
+Create a way to write responses to the original comment
+Create a thumbs up / thumbs down counter for these comments and ability to delete
+
+
+React Project Rubric: https://docs.google.com/document/d/1X8hBcNFOxBQqg1tPWOwMa1qhJDghBpQKzUHUMRllGwI/edit?usp=sharing
+React Presentation Requirements: https://docs.google.com/document/d/149VNSIqyBptY2DbXgRXeu6FBflCZAnGYIsTo2ozRJbM/edit?usp=sharing
