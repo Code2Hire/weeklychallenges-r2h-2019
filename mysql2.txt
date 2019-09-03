@@ -1,4 +1,5 @@
 Use this database to answer the following challenges:
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_where
 
 Very Easy: Group By: Start by clearing everything from the SQL Statement box. Then, start a query from the Orders table.Select the ShipperID column.Then type COUNT(OrderID) as your second SELECT statement, aliasing it as Orders.Group by ShipperID, and RUN SQL.
 Easy: What is the most expensive product available? What is this the cheapest product available?
