@@ -1,0 +1,34 @@
+VERY EASY:  Create a basic C# console-mode program that simply outputs the text "Hello World".?
+ Your program should wait for the user to press a key before the program exits.? 
+  
+EASY: Create a program that asks the user to enter an integer. If the integer is less than 10, print the message "This number is too small".
+ If the integer is greater than or equal to 10, print "This number is big enough".  
+ Hint: read a line and then use Int32.TryParse() to convert the text to an integer. 
+  
+MEDIUM: Write a loop that would print out the following: 
+   
+********** 
+********** 
+********** 
+********** 
+**********   
+You can only have the ‘ * ’ character once!
+  
+HARD: Print a Pyramid? 
+    * 
+   *** 
+  ***** 
+ ******* 
+********* 
+Hints: You can use three loops. The big one contains two smaller loops. The first inner loops takes care of the # of spaces.
+ The second inner loop handles the # of stars.
+  
+VERY HARD:  
+Write a program using a switch statement that takes one value from the user and asks about the type of conversion and then
+ performs a conversion depending on the type of conversion. If user enters: 
+I -> convert from inches to centimeters. 
+G -> convert from gallons to liters.
+M -> convert from mile to kilometer. 
+P -> convert from pound to kilogram. 
+
+If the user enters any other character then show a proper message.
